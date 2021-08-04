@@ -1,4 +1,4 @@
-package estruturaDeSelecao;
+package estruturaDeSelecaoRepeticaoVetorMatriz;
 
 import javax.swing.*;
 import java.text.DecimalFormat;

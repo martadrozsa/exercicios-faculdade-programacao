@@ -1,4 +1,4 @@
-package estruturaDeSelecao;
+package estruturaDeSelecaoRepeticaoVetorMatriz;
 
 import java.util.Scanner;
 
